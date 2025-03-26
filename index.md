@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+jridev: Welcome to my development log.
 ---
 
