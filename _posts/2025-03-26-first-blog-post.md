@@ -3,4 +3,4 @@ title: "First post"
 date: 2025-03-26
 --
 # Welcome
-**Hello World!**, this is my first dev log post.
+**Hello World!**, this is my first dev blog post.
