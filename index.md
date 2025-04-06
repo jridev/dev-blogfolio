@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "jridev - Welcome to My Blog"
+title: "Welcome to My Blogfolio"
 ---
