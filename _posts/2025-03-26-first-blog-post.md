@@ -1,7 +1,12 @@
 ---
 title: "First Post"
 date: 2025-03-26
+layout: post
+categories: [post]
+tags: [jekyll, vercel, stripe, webdev, blogging]
+author: jridev
 ---
+
 
 # 🚀 Welcome to My Dev Journey!
 
