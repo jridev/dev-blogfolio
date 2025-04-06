@@ -1,1 +1,6 @@
-theme: minima
+# _config.yml
+
+sass:
+  style: compressed
+  load_paths:
+    - "asset/css"
