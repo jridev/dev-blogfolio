@@ -9,15 +9,12 @@ author: jridev
 
 # Welcome Back to My Dev Blog!
 
-
-
-
-
 **Hello World!** This is actually my **second** blog post, and I’m excited to share what I’ve been learning recently! In my first post, I shared a bit about who I am and what this blog is going to be about. Now, I’ve been diving deeper into web development and learning how to integrate **Vercel** for deployment and **Stripe** for payment processing in my projects.
 
 ## What I’ve Been Working On
 
 For this post, I want to talk about my experience setting up **Vercel** and **Stripe** in my latest web store project.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe Logo" height="100" style="height: 100px; width: auto;">
 <img src="https://images.ctfassets.net/crb83veve8xb/2VaNf5PhpBlvKAUKYfmefe/5fdaf99f05704485b02e14e8d4addefb/vercel.webp" alt="Vercel Logo" height="100" style="height: 100px; width: auto;">
 
