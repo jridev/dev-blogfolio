@@ -44,4 +44,4 @@ I’m really excited about the next steps and will share more updates soon. Stay
 
 ---
 
-Thanks for reading my second post! Feel free to leave any thoughts, questions, or feedback in the comments below. 🚀
+Thanks for reading my second post! 🚀
