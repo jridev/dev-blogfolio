@@ -2,7 +2,7 @@
 title: "Second Post: Integrating Vercel and Stripe"
 date: 2025-04-06
 layout: post
-categories: [dev-blog, learning]
+categories: [learning, update]
 tags: [jekyll, vercel, stripe, webdev, blogging]
 author: jridev
 ---
