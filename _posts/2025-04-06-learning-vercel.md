@@ -2,12 +2,14 @@
 title: "Second Post: Integrating Vercel and Stripe"
 date: 2025-04-06
 layout: post
-categories: [learning, update]
+categories: [learning]
 tags: [jekyll, vercel, stripe, webdev, blogging]
 author: jridev
 ---
 
 # Welcome Back to My Dev Blog!
+![Image Alt Text](https://en.m.wikipedia.org/wiki/File:Stripe_Logo,_revised_2016.svg)
+
 
 **Hello World!** This is actually my **second** blog post, and I’m excited to share what I’ve been learning recently! In my first post, I shared a bit about who I am and what this blog is going to be about. Now, I’ve been diving deeper into web development and learning how to integrate **Vercel** for deployment and **Stripe** for payment processing in my projects.
 
