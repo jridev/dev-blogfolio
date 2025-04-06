@@ -1,6 +1,1 @@
-# _config.yml
-
-sass:
-  style: compressed
-  load_paths:
-    - "asset/css"
+theme: minimal-mistakes
