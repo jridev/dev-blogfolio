@@ -8,7 +8,7 @@ author: jridev
 ---
 
 # Welcome Back to My Dev Blog!
-[![Stripe Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Stripe_Logo%2C_revised_2016.svg)](https://en.m.wikipedia.org/wiki/File:Stripe_Logo,_revised_2016.svg)
+[![Stripe Logo](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg)
 
 
 
