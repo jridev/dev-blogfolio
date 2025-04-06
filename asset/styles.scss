@@ -1,0 +1,22 @@
+/* assets/css/style.scss */
+body {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+}
+
+/* Links and navigation adjustments */
+a {
+  color: #3498db; /* Light blue links */
+}
+
+a:hover {
+  color: #fff; /* White color for links on hover */
+}
+
+header, footer {
+  background-color: #111; /* Darker shade for header/footer */
+}
+
+h1, h2, h3, h4 {
+  color: #fff; /* White headers */
+}
