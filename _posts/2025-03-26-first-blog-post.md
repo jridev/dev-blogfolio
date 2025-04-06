@@ -25,5 +25,3 @@ Stick around, because I’ve got tons of exciting stuff to share. Next up, I’l
 ---
 
 Catch me next time as I continue to learn and share!
-
-Feel free to leave comments or share your thoughts. 😊
