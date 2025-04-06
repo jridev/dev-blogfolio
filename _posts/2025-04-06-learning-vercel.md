@@ -15,10 +15,8 @@ author: jridev
 
 For this post, I want to talk about my experience setting up **Vercel** and **Stripe** in my latest web store project.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe Logo" height="100" style="height: 100px; width: auto;">
-<img src="https://images.ctfassets.net/crb83veve8xb/2VaNf5PhpBlvKAUKYfmefe/5fdaf99f05704485b02e14e8d4addefb/vercel.webp" alt="Vercel Logo" height="100" style="height: 100px; width: auto;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe Logo" height="100" style="height: 100px; width: auto;"><img src="https://images.ctfassets.net/crb83veve8xb/2VaNf5PhpBlvKAUKYfmefe/5fdaf99f05704485b02e14e8d4addefb/vercel.webp" alt="Vercel Logo" height="100" style="height: 100px; width: auto;">
 
-https://images.ctfassets.net/crb83veve8xb/2VaNf5PhpBlvKAUKYfmefe/5fdaf99f05704485b02e14e8d4addefb/vercel.webp
 
 ### Why Vercel?
 
